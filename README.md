@@ -1,5 +1,5 @@
 # 🗂️ EXDS
-🔍 **EXDS** is a lightweight yet powerful tool to exploit publicly exposed `.DS_Store` files on websites. It automatically **parses the content** and **recursively downloads all hidden files and folders**.
+🔍 **EXDS** is a powerful tool to exploit publicly exposed `.DS_Store` files on websites. It automatically **parses the content** and **recursively downloads all hidden files and folders**.
 
 > Built for red teamers, bug bounty hunters, and OSINT researchers who want to reveal hidden web content.  
 > 🌍 Open-source, 100% free, beginner-welcoming.
